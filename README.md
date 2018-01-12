@@ -50,7 +50,7 @@ See also: [Platform Building Cheat Sheet](https://github.com/RestCheatSheet/plat
 
 1. Use [OAuth2](http://oauth.net/2/) to secure your API.
     * Use a Bearer token for authentication.
-    * Require HTTPS / TLS / SSL to access your APIs. OAuth2 Bearer tokens demand it. Unencrypted communication over HTTP allows for simple eavesdroppping and impersonation.
+    * Require HTTPS / TLS / SSL to access your APIs. OAuth2 Bearer tokens demand it. Unencrypted communication over HTTP allows for simple eavesdropping and impersonation.
 
 1. Use Content-Type negotiation to describe incoming request payloads.
 
