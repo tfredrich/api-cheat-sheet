@@ -1,3 +1,5 @@
+[English](./README.md) | [简中版](./README-zh-Hans.md) | [Español](./README-es.md)
+
 See also: [Platform Building Cheat Sheet][1]
 
 # API 设计参考手册
